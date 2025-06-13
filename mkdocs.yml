@@ -1,0 +1,54 @@
+site_name: Cyber Threat Intelligence Knowledge Base
+site_url: https://intel.cyber.qld.gov.au
+repo_url: https://github.com/qld-gov-au/qgcti-docs
+site_description: "Homepage for the Queensland Government Cyber Threat Intelligence"
+
+theme:
+  name: material
+  palette:
+      primary: custom
+      scheme: default
+  features:
+    - navigation.tabs # Header navigation 
+    - navigation.tabs.sticky # Lock webiste menu
+    - navigation.top # Back to top button
+    - navigation.indexes # Section index page
+    - navigation.tracking # Automatically update with the active anchor highlighted in the table of contents
+    - navigation.sections # Render top-level sections as groups in the sidebar
+  logo: assets/Qld-CoA-Stylised-1L-online-mono-rev.png # Queensland Government Logo
+
+  font:
+    text: "Noto Sans" # Change font
+
+nav:
+  - Home: 
+    - index.md
+
+  - Terminology and Concepts: 
+    - terminology-and-concepts/index.md
+    - terminology-and-concepts/traffic-light-protocol.md
+    - terminology-and-concepts/permissible-actions-protocol.md
+    - terminology-and-concepts/words-of-estimative-probability.md
+
+plugins:
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/regular/envelope
+      link: mailto:intel@cyber.qld.gov.au
+  generator: false # Removes "Made with Material for MkDocs notice"
+
+copyright: Copyright &copy; 2025 Queensland Government
+
+markdown_extensions:
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+  - admonition # Admonitions
+  - abbr # Abbreviations 
+  - toc:
+      permalink: true
+
+extra_css:
+  - css/stylesheet.css

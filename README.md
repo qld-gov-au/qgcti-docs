@@ -1,2 +1,0 @@
-# qgcti-docs
-QGCTI Docs

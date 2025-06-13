@@ -1,0 +1,41 @@
+:root > * {
+    --md-primary-fg-color: #005EB8;
+    --md-accent-fg-color: #005EB8;
+    --md-footer-bg-color--dark: #005EB8; 
+    --md-footer-fg-color--light: #ffffff;
+    --md-typeset-a-color: #207ed6;
+}
+
+.md-typeset h1, .md-typeset h2 {
+    font-weight: 600;
+}
+
+.md-typeset h1 {
+  color: black;
+}
+
+.md-header__button.md-logo {
+  padding: 20px 13px 13px;
+  margin: 0px;
+}
+
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+  height: 50px;
+}
+
+.md-ellipsis {
+  padding-top: 5px;
+}
+
+.md-typeset__table th:nth-child(1n) {
+  background-color: #207ed6;
+  color: white
+}
+
+.md-typeset__table {
+  width: 100%
+}
+
+.md-typeset__table table:not([class]) {
+  display: table
+}

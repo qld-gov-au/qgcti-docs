@@ -7,7 +7,7 @@
 }
 
 .md-typeset h1, .md-typeset h2 {
-    font-weight: 600;
+  font-weight: 600;
 }
 
 .md-typeset h1 {
@@ -38,4 +38,29 @@
 
 .md-typeset__table table:not([class]) {
   display: table
+}
+
+.terminology-levels {
+  font-weight: bold;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.85em;
+  color: #fff;
+}
+
+.levels-clear {
+  background-color: #fff;
+  color: #000;
+}
+
+.levels-green {
+  background-color: #28a745;
+}
+
+.levels-amber {
+  background-color: #e67e22;
+}
+
+.levels-red {
+  background-color: #e74c3c;
 }

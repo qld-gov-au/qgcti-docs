@@ -26,6 +26,7 @@ nav:
 
   - Terminology and Concepts: 
     - terminology-and-concepts/index.md
+    - terminology-and-concepts/intelligence-cycle.md
     - terminology-and-concepts/traffic-light-protocol.md
     - terminology-and-concepts/permissible-actions-protocol.md
     - terminology-and-concepts/words-of-estimative-probability.md

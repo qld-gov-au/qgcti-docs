@@ -27,6 +27,10 @@
   padding-top: 5px;
 }
 
+.md-header__ellipsis {
+  display: none;
+}
+
 .md-typeset__table th:nth-child(1n) {
   background-color: #207ed6;
   color: white

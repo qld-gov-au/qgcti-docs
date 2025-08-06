@@ -1,0 +1,201 @@
+:root > * {
+    --md-primary-fg-color: #005EB8;
+    --md-accent-fg-color: #005EB8;
+    --md-footer-bg-color--dark: #005EB8; 
+    --md-footer-fg-color--light: #ffffff;
+    --md-typeset-a-color: #207ed6;
+}
+
+.md-typeset h1, .md-typeset h2 {
+  font-weight: 600;
+}
+
+.md-typeset h1 {
+  color: black;
+}
+
+.md-header__button.md-logo {
+  padding: 20px 13px 13px;
+  margin: 0px;
+}
+
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+  height: 70px;
+}
+
+.md-ellipsis {
+  padding-top: 5px;
+}
+
+.md-header__ellipsis {
+  display: none;
+}
+
+.md-typeset__table th:nth-child(1n) {
+  background-color: #207ed6;
+  color: white
+}
+
+.md-typeset__table {
+  width: 100%
+}
+
+.md-typeset__table table:not([class]) {
+  display: table
+}
+
+/* TLP */
+.terminology-levels {
+  font-weight: bold;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.85em;
+  color: #fff;
+}
+
+.levels-clear {
+  background-color: #fff;
+  color: #000;
+}
+
+.levels-green {
+  background-color: #28a745;
+}
+
+.levels-amber {
+  background-color: #e67e22;
+}
+
+.levels-red {
+  background-color: #e74c3c;
+}
+
+/* FormIO Classes */
+.formio-form {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
+
+.formio-form .form-control,
+.formio-form textarea,
+.formio-form select {
+  width: 100%;
+  padding: 0.65em 0.75em;
+  font-size: 1em;
+  font-family: inherit;
+  color: #1a1a1a;
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+  appearance: none;
+}
+
+.formio-form .form-control:focus,
+.formio-form textarea:focus,
+.formio-form select:focus {
+  border-color: #005EB8;
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(0, 16, 238, 0.2);
+}
+
+.formio-form .form-control::placeholder,
+.formio-form textarea::placeholder,
+.formio-form select::placeholder {
+  color: #ccc;
+  opacity: 1;
+}
+
+.formio-form .formio-component label .required {
+  color: red;
+  margin-left: 4px;
+}
+
+.formio-form .formio-component:not(.formio-component-button) {
+  margin-bottom: 1.5rem;
+}
+
+.formio-form button.btn {
+  font-size: 1em;
+  padding: 0.75em 1.5em;
+  border-radius: 4px;
+  border: none;
+  background-color: blue;
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.col-form-label {
+    font-weight: bold;
+}
+
+.error, .alert-danger {
+    color: rgb(255, 0, 0);
+    font-size: 0.8em;
+}
+
+.text-muted { 
+    color:rgba(95, 83, 83, 0.45);
+    font-size: 0.8em;
+}
+
+.formio-select-autocomplete-input {
+    display: none;
+}
+
+.field-required:after {
+    content: " *";
+    color: rgb(255, 0, 0);
+}
+
+.formio-form button.btn {
+  background: transparent;
+  border: none;
+  font-family: inherit;
+  font-size: 0.9em;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  font-weight: 700;
+  padding: 0.625em 2em;
+  border: 0.1rem solid var(--md-primary-fg-color, #005EB8);
+  border-radius: 0.1rem;
+  color: var(--md-primary-bg-color, #fff);
+  background-color: var(--md-primary-fg-color, #005EB8);
+  cursor: pointer;
+  transition:
+    color 125ms ease-in-out,
+    background-color 125ms ease-in-out,
+    border-color 125ms ease-in-out;
+}
+
+.formio-form button.btn:hover,
+.formio-form button.btn:focus {
+  background-color: #0081fa;
+  border-color: #0081fa;
+  color: #fff;
+  outline: none;
+}
+
+.formio-form button.btn:disabled {
+  background-color: #ccc;
+  border-color: #ccc;
+  color: #666;
+  cursor: not-allowed;
+  box-shadow: none;
+}
+
+.has-success, .has-error {
+    padding-top: 15px;
+}
+
+.formio-component-htmlelement {
+    font-size: 0.7em;
+    text-align: right;
+}

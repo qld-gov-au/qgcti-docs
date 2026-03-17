@@ -1,6 +1,6 @@
 
 [project]
-site_name = ""
+site_name = "Queensland Government Cyber Threat Intelligence"
 site_url = "https://intel.cyber.qld.gov.au"
 site_description = "Homepage for the Queensland Government Cyber Threat Intelligence"
 site_author = "Queensland Government Cyber Threat Intelligence"

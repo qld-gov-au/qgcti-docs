@@ -8,6 +8,7 @@ This content is intended to support a shared understanding of common CTI languag
 
 | Concept | Description |
 | ------- | ----------- |
+| [Intelligence Cycle](intelligence-cycle.md) | Structured process for turning raw information into actionable intelligence |
 | [Traffic Light Protocol (TLP)](traffic-light-protocol.md) | A classification system for information sharing | 
 | [Permissible Actions Protocol (PAP)](permissible-actions-protocol.md) | A classification system guiding actions related to received information |
 | [Words of Estimative Probability (WEPs)](words-of-estimative-probability.md) | Probability and confidence terminology utilised by the QGCTI team | 

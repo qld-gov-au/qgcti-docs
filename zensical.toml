@@ -16,6 +16,9 @@ nav = [
         "terminology-and-concepts/permissible-actions-protocol.md",
         "terminology-and-concepts/words-of-estimative-probability.md"
     ]},
+    {"Products and Services" = [
+        "products-and-services/index.md"
+    ]},
     {"Share Intel" = "share-intel/index.md"}
 ]
 
@@ -50,6 +53,12 @@ link = "mailto:intel@cyber.qld.gov.au"
 [project.markdown_extensions.admonition]
 
 [project.markdown_extensions.attr_list]
+
+[project.markdown_extensions.md_in_html]
+
+[project.markdown_extensions.pymdownx.emoji]
+emoji_index = "zensical.extensions.emoji.twemoji"
+emoji_generator = "zensical.extensions.emoji.to_svg"
 
 [project.markdown_extensions.pymdownx.snippets]
 auto_append = ["includes/abbreviations.md"]

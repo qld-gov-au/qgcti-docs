@@ -17,17 +17,6 @@ The Queensland Government Cyber Threat Intelligence (QGCTI) team provides intell
 
 Elevating Queensland Government cyber security by placing **intelligence at the forefront** of our defensive capabilities. 
 
-## Products and Services
-
-- Alerts and Advisories
-- Flash Reports
-- Daily Threat Brief (DTB)
-- Quarterly Strategic Cyber Threat Review (QSCTR)
-- Request for Information (RFI)
-- Threat Intelligence Platform (TIP)
-
-For a comprehensive listing and detailed guidance on how to access each service, please visit [forgov.qld.gov.au](https://www.forgov.qld.gov.au/information-and-communication-technology/cyber-security/cyber-security-services/system-and-email-hardening/cyber-threat-intelligence).
-
 ## Contact Us
 
 For all general enquiries contact us via email:

@@ -19,7 +19,8 @@ nav = [
     {"Products and Services" = [
         "products-and-services/index.md"
     ]},
-    {"Share Intel" = "share-intel/index.md"}
+    {"Share Intel" = "share-intel/index.md"},
+    {"PHP2Shell" = "php2shell/index.md"}
 ]
 
 [project.theme]

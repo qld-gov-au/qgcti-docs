@@ -51,6 +51,7 @@ This page will be updated as new resources are available.
 - ZScaler: [CVE-2026-109618 and CVE-2026-109619: PHP2Shell | ThreatLabz](https://www.zscaler.com/blogs/security-research/cve-2026-109618-and-cve-2026-109619-php-vulnerable-unauthenticated-rce)
 - Qualys: [PHP2Shell: PHP Patches Two Critical RCE Vulnerabilities, Urges Immediate Updates](https://blog.qualys.com/vulnerabilities-threat-research/2026/10/20/php-announces-critical-security-release-for-two-vulnerabilities)
 - Horizon3.ai: [CVE-2026-109618 / CVE-2026-109619](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-109618-cve-2026-109619/)
+- Kiteworks: [9.5.3 Critical Update for PHP2Shell Vulnerabilities](https://info.kiteworks.com/php2-vulnerability-advisory)
 
 ## Government Advisories
 - CCCS: [AL26-026 - Critical vulnerabilities impacting PHP - CVE-2026-109618 and CVE-2026-109619 - Canadian Centre for Cyber Security](https://www.cyber.gc.ca/en/alerts-advisories/al26-026-critical-vulnerabilities-impacting-php-cve-2026-109618-cve-2026-109619)

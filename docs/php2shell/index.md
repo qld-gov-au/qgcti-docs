@@ -26,7 +26,7 @@ This page will be updated as new resources are available.
 - NCSC-NL: [php2shell/detection_mitigation at main · NCSC-NL/php2shell](https://github.com/NCSC-NL/php2shell/tree/main/detection_mitigation)
 - Abstract Security Detection Guidance: [PHP2Shell: Critical PHP RCE Vulnerabilities CVE-2026-109618 and CVE-2026-109619](https://www.abstract.security/blog/php2shell-critical-php-rce-vulnerabilities-cve-2026-109618-and-cve-2026-109619)
 
-## Vendor Advisories/Posts
+## Vendor Advisories
 - Cisco: [Cisco Security Advisory: Vulnerabilities in PHP Affecting Cisco Products: October 2026](https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-php-october26-Jj384Daq)
 - F5: [K000163821: PHP vulnerabilities CVE-2026-109618 and CVE-2026-109619](https://my.f5.com/manage/s/article/K000163821)
 - Palo Alto: [CVE-2026-109618 Impact of Critical Vulnerabilities in PHP (CVE-2026-109618, CVE-2026-109619) on Palo Alto Networks Products](https://security.paloaltonetworks.com/CVE-2026-109618)
@@ -48,6 +48,8 @@ This page will be updated as new resources are available.
 - Google Cloud: [Responding to core PHP vulnerabilities CVE-2026-109618 and CVE-2026-109619 | Google Cloud Blog](https://cloud.google.com/blog/products/identity-security/responding-to-core-php-vulnerabilities-cve-2026-109618-cve-2026-109619/)
 - Fortinet: [FG-IR-26-186](https://fortiguard.fortinet.com/psirt/FG-IR-26-186#:~:text=Fortinet%20PSIRT%20is,Fortinet%20Products)
 - ZScaler: [CVE-2026-109618 and CVE-2026-109619: PHP2Shell | ThreatLabz](https://www.zscaler.com/blogs/security-research/cve-2026-109618-and-cve-2026-109619-php-vulnerable-unauthenticated-rce)
+- Qualys: [PHP2Shell: PHP Patches Two Critical RCE Vulnerabilities, Urges Immediate Updates](https://blog.qualys.com/vulnerabilities-threat-research/2026/10/20/php-announces-critical-security-release-for-two-vulnerabilities)
+- Horizon3.ai: [CVE-2026-109618 / CVE-2026-109619](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-109618-cve-2026-109619/)
 
 ## Government Advisories
 - CCCS: [AL26-026 - Critical vulnerabilities impacting PHP - CVE-2026-109618 and CVE-2026-109619 - Canadian Centre for Cyber Security](https://www.cyber.gc.ca/en/alerts-advisories/al26-026-critical-vulnerabilities-impacting-php-cve-2026-109618-cve-2026-109619)
@@ -56,6 +58,10 @@ This page will be updated as new resources are available.
 - CISA: [Critical Vulnerabilities in PHP Require Immediate Patching](https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching)
 - CERT-EU: [Critical Vulnerabilities in PHP](https://cert.europa.eu/publications/security-advisories/2026-018/)
 - CIRCL: [TR-102 Critical Remote Code Execution Vulnerabilities in PHP - CVE-2026-109618 and CVE-2026-109619](https://www.circl.lu/pub/tr-102/)
+
+## Research
+- Datadog: [PHP2Shell - Critical vulnerabilities in PHP (CVE-2026-109618, CVE-2026-109619): detection, analysis, and remediation](https://securitylabs.datadoghq.com/articles/php2shell-critical-vulnerabilities-in-php/)
+- SANS ISC: [Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) [infocon yellow]](https://isc.sans.edu/diary/rss/33440)
 
 ## Proof of Concept Code
 - ikon php2shell: [ikow/php2shell-poc: CVE-2026-109618/109619 PHP session.upload_progress Exploit Research — POC & Analysis](https://github.com/ikow/php2shell-poc/tree/main)

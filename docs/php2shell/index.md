@@ -33,6 +33,7 @@ This page will be updated as new resources are available.
 - CloudFlare: [Cloudflare deploys protections against php2shell vulnerability](https://blog.cloudflare.com/php-vulnerabilities-waf-protection/#update-php-and-keep-the-protection-enabled)
 - Imperva: [PHP2Shell: When PHP Runs Out of Memory at the Wrong Moment](https://www.imperva.com/blog/php2shell-vulnerability-updates/)
 - AWS: [PHP web runtimes \(CVE-2026-109618 and CVE-2026-109619\)](https://aws.amazon.com/security/security-bulletins/2026-143-aws/)
+- AWS: [Using AWS WAF to apply mitigations for PHP2Shell RCE vulnerabilities](https://aws.amazon.com/blogs/security/using-aws-waf-to-apply-mitigations-for-php2shell-rce-vulnerabilities-cve-2026-109618-and-cve-2026-109619/)
 - RedHat: [RHSB-2026-013 Request handling memory corruption - php \(CVE-2026-109618, CVE-2026-109619\) - "php2shell" | Red Hat Customer Portal](https://access.redhat.com/security/vulnerabilities/RHSB-2026-013)
 - Ubuntu: [php2shell \(CVE-2026-109618 and CVE-2026-109619\) – PHP critical vulnerability fixes available](https://ubuntu.com/blog/php2shell-vulnerability-fixes-available)
 - Debian: [[SECURITY] [DSA 6574-1] php8.4 security update](https://lists.debian.org/debian-security-announce/2026/msg00489.html?pow_referer=)
@@ -67,6 +68,9 @@ This page will be updated as new resources are available.
 - ikon php2shell: [ikow/php2shell-poc: CVE-2026-109618/109619 PHP session.upload_progress Exploit Research — POC & Analysis](https://github.com/ikow/php2shell-poc/tree/main)
 - blasty: [blasty/php-8.5.4-apache-uaf-poc: Private Dockerized PHP 8.5.4 Apache session upload-progress UAF research PoC](https://github.com/blasty/php-8.5.4-apache-uaf-poc)
 - Zero061: [php2shell — PHP 8.4.26 session vulnerability reproduction](https://github.com/Zer061/CVE-2026-109618)
+
+## Exploitation Activity
+- Amazon Threat Intelligence: [Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot](https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/)
 
 ## Misc
 - PHP Version Checker for Codex: [openai/php2shell-checker](https://github.com/openai/php2shell-checker)

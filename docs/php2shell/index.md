@@ -63,6 +63,7 @@ This page will be updated as new resources are available.
 ## Research
 - Datadog: [PHP2Shell - Critical vulnerabilities in PHP (CVE-2026-109618, CVE-2026-109619): detection, analysis, and remediation](https://securitylabs.datadoghq.com/articles/php2shell-critical-vulnerabilities-in-php/)
 - SANS ISC: [Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) [infocon yellow]](https://isc.sans.edu/diary/rss/33440)
+- Elastic: [php2shell: Assessing Elastic detection coverage](https://www.elastic.co/security-labs/threat-command/php2shell-php-rce-detection)
 
 ## Proof of Concept Code
 - ikon php2shell: [ikow/php2shell-poc: CVE-2026-109618/109619 PHP session.upload_progress Exploit Research — POC & Analysis](https://github.com/ikow/php2shell-poc/tree/main)
@@ -71,6 +72,7 @@ This page will be updated as new resources are available.
 
 ## Exploitation Activity
 - Amazon Threat Intelligence: [Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot](https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/)
+- Matthew Prince (CloudFlare): [X.com – CloudFlare Exploitation Activity](https://x.com/eastdakota/status/2113079352682570051)
 
 ## Misc
 - PHP Version Checker for Codex: [openai/php2shell-checker](https://github.com/openai/php2shell-checker)

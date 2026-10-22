@@ -60,7 +60,7 @@ This page will be updated as new resources are available.
 ## Proof of Concept Code
 - ikon php2shell: [ikow/php2shell-poc: CVE-2026-109618/109619 PHP session.upload_progress Exploit Research — POC & Analysis](https://github.com/ikow/php2shell-poc/tree/main)
 - blasty: [blasty/php-8.5.4-apache-uaf-poc: Private Dockerized PHP 8.5.4 Apache session upload-progress UAF research PoC](https://github.com/blasty/php-8.5.4-apache-uaf-poc)
-- Jackalsyn: [Only for the curious...](https://jackalsyn.com/posts/php-up-2026.html)
+- Zero061: [php2shell — PHP 8.4.26 session vulnerability reproduction](https://github.com/Zer061/CVE-2026-109618)
 
 ## Misc
 - PHP Version Checker for Codex: [openai/php2shell-checker](https://github.com/openai/php2shell-checker)

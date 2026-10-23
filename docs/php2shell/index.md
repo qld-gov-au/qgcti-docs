@@ -52,6 +52,8 @@ This page will be updated as new resources are available.
 - Qualys: [PHP2Shell: PHP Patches Two Critical RCE Vulnerabilities, Urges Immediate Updates](https://blog.qualys.com/vulnerabilities-threat-research/2026/10/20/php-announces-critical-security-release-for-two-vulnerabilities)
 - Horizon3.ai: [CVE-2026-109618 / CVE-2026-109619](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-109618-cve-2026-109619/)
 - Kiteworks: [9.5.3 Critical Update for PHP2Shell Vulnerabilities](https://info.kiteworks.com/php2-vulnerability-advisory)
+- Hostinger: [Hostinger deploys protections against php2shell PHP vulnerabilities](https://www.hostinger.com/blog/protecting-php2shell/)
+- Okta: [Okta's Response to PHP2Shell](https://sec.okta.com/articles/2026/10/okta-response-to-php2shell/)
 
 ## Government Advisories
 - CCCS: [AL26-026 - Critical vulnerabilities impacting PHP - CVE-2026-109618 and CVE-2026-109619 - Canadian Centre for Cyber Security](https://www.cyber.gc.ca/en/alerts-advisories/al26-026-critical-vulnerabilities-impacting-php-cve-2026-109618-cve-2026-109619)
@@ -80,3 +82,4 @@ This page will be updated as new resources are available.
 - CVE-2026-109618: [CVE-2026-109618](https://www.cve.org/CVERecord?id=CVE-2026-109618)
 - CVE-2026-109619: [CVE-2026-109619](https://www.cve.org/CVERecord?id=CVE-2026-109619)
 - NCSC-NL Affected Software List: [NCSC-NL GitHub](https://github.com/NCSC-NL/php2shell/tree/main/software)
+- Censys PHP2Shell Service Tracker: [PHP2Shell Services](https://php2shell.censys.com/)
